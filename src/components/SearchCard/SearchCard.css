@@ -1,0 +1,33 @@
+.search {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.search-body {
+    width: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: stretch;
+}
+
+.search-links a {
+    font-size: medium;
+    font-weight: bold;
+    color: #0b58b4;
+    margin-right: .5em;
+}
+
+.search-footer {
+    text-align: left;
+}
+
+.search-footer .faded {
+    color: #989898;
+}
+
+.search img {
+    width: 5rem;
+}

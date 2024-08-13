@@ -1,0 +1,10 @@
+.news-header {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+.header-date {
+    font-size: small;
+    color: #989898;
+}
